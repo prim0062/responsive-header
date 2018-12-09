@@ -133,11 +133,11 @@ nav a:hover {
     font-size: 2rem;
     text-align: left;
     margin: 0;
-    padding: 0 .75em;
+    padding: .5em .75em;
   }
 
   nav {
-    width: 60%;
+    width: 50%;
   }
 
   nav ul {
@@ -149,14 +149,14 @@ nav a:hover {
   li {
     display: inline-flex;
     flex-direction: row;
-    width: 40%;
+    width: 30%;
   }
 
   nav a {
     text-align: center;
     color: #6c8fe0;
     width: 100%;
-    padding: .5em 0;
+    padding: .5em .75em;
   }
 
 }
